@@ -7,6 +7,6 @@
   git add
   git commit
  ```
-- George Washington
-* John Adams
-+ Thomas Jefferson
+1. George Washington
+   _John Adams
+    _Thomas Jefferson
