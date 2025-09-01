@@ -4,6 +4,6 @@
 ~~OOPS I made an error~~
   ```
  - git status
- + git add
- * git commit
+ - git add
+ - git commit
  ```
