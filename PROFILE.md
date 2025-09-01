@@ -3,7 +3,7 @@
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
   ```
- git status
- git add
- git commit
+ +git status
+ -git add
+ *git commit
  ```
