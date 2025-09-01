@@ -7,6 +7,6 @@
   git add
   git commit
  ```
-1. George Washington
-   _John Adams
-    _Thomas Jefferson
+1. First list item
+- First nested list item
+- Second nested list item
