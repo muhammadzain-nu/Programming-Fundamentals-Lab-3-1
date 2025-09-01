@@ -7,6 +7,6 @@
   git add
   git commit
  ```
-- hello
-- world
-- hi
+- George Washington
+* John Adams
++ Thomas Jefferson
